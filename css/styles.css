@@ -1,8 +1,9 @@
 body {
     text-align: center;
-    background: url("http://dash.ga.co/assets/anna-bg.png");
-    background-size: cover;
-    background-position: center;
+    background: url("http://img01.deviantart.net/36fa/i/2013/043/b/8/san_francisco_from_bernal_heights_by_tt83x-d5urvla.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     color: white;
     font-family: helvetica;
   }
